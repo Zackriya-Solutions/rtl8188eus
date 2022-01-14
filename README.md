@@ -29,6 +29,13 @@ as CentOS Kernel 3.10 contains many code from 4.x
 1. chmod +x install.sh
 2. sudo ./install.sh
 
+After resboot, run the following file
+
+3. chmod +x run.sh
+4. ./run.sh
+
+Open 127.0.0.1:2501
+
 # Howto build/install
 1. You will need to blacklist another driver in order to use this one.
 2. `echo 'blacklist r8188eu'|sudo tee -a '/etc/modprobe.d/realtek.conf'`
