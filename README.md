@@ -27,7 +27,7 @@ as CentOS Kernel 3.10 contains many code from 4.x
 # Install
 
 1. chmod +x install.sh
-2. ./install.sh
+2. sudo ./install.sh
 
 # Howto build/install
 1. You will need to blacklist another driver in order to use this one.
