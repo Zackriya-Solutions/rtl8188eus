@@ -24,6 +24,11 @@ as CentOS Kernel 3.10 contains many code from 4.x
 * Up to kernel v5.8+
 ... And a bunch of various wifi chipsets
 
+# Install
+
+1. chmod +x install.sh
+2. ./install.sh
+
 # Howto build/install
 1. You will need to blacklist another driver in order to use this one.
 2. `echo 'blacklist r8188eu'|sudo tee -a '/etc/modprobe.d/realtek.conf'`
