@@ -1,9 +1,9 @@
-Like https://github.com/cccooo/rtl8812au-centos-7.6, forked from aircrack-ng/rtl8188eus and modified for CentOS 7.9
-as CentOS Kernel 3.10 contains many code from 4.x
+Forked for Zackriya Solutions
+
 
 ## rtl8188eus v5.3.9
 
-# Realtek rtl8188eus &amp; rtl8188eu &amp; rtl8188etv WiFi drivers
+# Realtek rtl8188eus &amp; rtl8188eu &amp; rtl8188etv WiFi drivers Zackriya
 
 [![Monitor mode](https://img.shields.io/badge/monitor%20mode-supported-brightgreen.svg)](#)
 [![Frame Injection](https://img.shields.io/badge/frame%20injection-supported-brightgreen.svg)](#)
