@@ -8,5 +8,5 @@ echo "deb https://www.kismetwireless.net/repos/apt/release/$(lsb_release -cs) $(
 apt-get update
 apt-get install kismet
 usermod -aG kismet pi
-
+sudo cp ./kismet_site.conf /etc/kismet/kismet_site.conf
 reboot
